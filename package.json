@@ -1,9 +1,9 @@
 {
   "name": "mx-discord",
   "version": "1.1.2",
-  "description": "Um bot simples para o discord",
+  "description": "A bot for Discord built with TypeScript. It was made in 2022 and refactored in 2023. And it has several functions, such as searching GPT, generating images, book summaries, etc...",
   "scripts": {
-    "start": "ts-node src/app.ts"
+    "dev": "ts-node src/app.ts"
   },
   "author": "Matheus Piccoli",
   "license": "ISC",
