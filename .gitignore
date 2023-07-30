@@ -1,2 +1,4 @@
 ﻿.env
+.env.local
+.env.dev
 node_modules
