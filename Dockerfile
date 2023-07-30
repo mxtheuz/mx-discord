@@ -11,4 +11,4 @@ COPY . .
 ENV BOT_TOKEN=
 ENV OPENAI_APIKEY=
 
-CMD [ "npm", "start" ]
+CMD [ "npm", "run", "dev" ]
